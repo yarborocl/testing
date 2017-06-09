@@ -1,7 +1,0 @@
-./etc/logrotate.d/telegraf
-./etc/telegraf/telegraf.conf
-./etc/telegraf/telegraf.d
-./usr/bin/telegraf
-./usr/lib/telegraf/scripts/init.sh
-./usr/lib/telegraf/scripts/telegraf.service
-./var/log/telegraf
